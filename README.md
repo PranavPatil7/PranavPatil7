@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@pranavkknight" target="blank"><img src="https://img.shields.io/twitter/follow/@pranavkknight?logo=twitter&style=for-the-badge" alt="@pranavkknight" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@pranavkknight" target="blank"><img src="https://img.shields.io/twitter/follow/@pranavkknight?logo=twitter&style=for-the-badge" alt="pranavkknight" /></a> </p>
 
 - 🔭 I’m currently working as **Python Developer**
 
