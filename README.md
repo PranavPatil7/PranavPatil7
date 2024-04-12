@@ -38,5 +38,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,golang,cpp,cs,ruby,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,mysql,flask,django,css,html,flutter,bootstrap,nodjs,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,mysql,flask,django,css,html,flutter,bootstrap,nodejs,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,postman,netlify,kubernetes" /><br>
 </div>
