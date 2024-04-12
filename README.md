@@ -13,8 +13,8 @@
  
  🌱 ALso Practicing **ML, AI, Computer Vision**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Masters Degree in Computer Science
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Passionate about Developing Full Stack Applications and Leanring New Everytime
 
  </div>
