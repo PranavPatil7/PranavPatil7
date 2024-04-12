@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Experience in Python, Deep Learning, Fullstack Applications
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 ALso Practicing **ML, AI, Computer Vision**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
