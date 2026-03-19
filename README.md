@@ -3,19 +3,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Pranav+Patil;" />
 </h1>
-<h2 align="center">Software Developer from New York </h2>
+<h2 align="center">Compiler Engineer from San Deigo</h2>
 
 <br/>
 
 <div align="center">
  
- 🔭 Experience in Python, Deep Learning, Fullstack Applications
+ 🔭 Experience in C++, DevOps, QA Infrastructure
  
- 🌱 ALso Practicing **ML, AI, Computer Vision**
+ 🌱 ALso Practicing **3D, OS, Computer Vision**
 
 💬 Masters Degree in Computer Science
 
-⚡ Passionate about Developing Full Stack Applications and Leanring New Things.
+⚡ Passionate about Developing Applications and Leanring New Things.
 
  </div>
 
